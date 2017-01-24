@@ -8,3 +8,5 @@ The spec of project given me by a company as a challenge.
 - Showing popular tvshows
 - Giving details of tvshows
 
+### DEMO
+[![demo](https://raw.githubusercontent.com/selimsevencan/react-redux-tvshows/master/ss.jpg)](http://react-redux-tvshows.surge.sh/)
