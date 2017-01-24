@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.TVShowItem {
+  text-align: left;
+}
+
+.Loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -60px;
+  margin-left: -60px;
+}
